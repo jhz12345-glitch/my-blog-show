@@ -193,16 +193,7 @@ https://www.bilibili.com/video/BV1c4411d7jb?spm_id_from=333.788.player.switch&vd
 
 3.编码和调制
 
-
-
-
-
-
-
-
-
-
-
+[点击下载DSP](/download/dsp-guide.pdf)
 
 
 
