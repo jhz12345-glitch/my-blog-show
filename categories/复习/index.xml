@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>复习 on 金宏舟</title>
+        <link>http://localhost:1313/categories/%E5%A4%8D%E4%B9%A0/</link>
+        <description>Recent content in 复习 on 金宏舟</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%A4%8D%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>计算机网络</title>
+        <link>http://localhost:1313/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/</guid>
+        <description>&lt;img src="http://localhost:1313/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 计算机网络" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

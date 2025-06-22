@@ -22,11 +22,11 @@ languages:
                 subtitle: Example description
     zh-cn:
         languageName: 中文
-        title: 金宏舟的个人博客
+        title: 金宏舟
         weight: 2
         params:
             sidebar:
-                subtitle: ieee
+                subtitle: 澳联大第一废物
     ar:
         languageName: عربي
         languagedirection: rtl
